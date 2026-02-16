@@ -1,6 +1,5 @@
 ## Hi there 👋
 
----
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MeeranHusain&color=green)
