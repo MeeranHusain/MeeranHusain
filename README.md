@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+---
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=MeeranHusain&color=blue)
+
+<!-- Proudly created with continuous improvements -->
+
 <!--
 **MeeranHusain/MeeranHusain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
