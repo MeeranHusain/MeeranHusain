@@ -3,7 +3,7 @@
 ---
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=MeeranHusain&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MeeranHusain&color=green)
 
 <!-- Proudly created with continuous improvements -->
 
