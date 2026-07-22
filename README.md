@@ -122,19 +122,13 @@ Passionate about building scalable web applications, developing RESTful APIs, an
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/meeran-husain/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Meeran%20Husain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
-&nbsp;
-
-<p align="center">
-<a href="mailto:meeranhusain18@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+    <a href="https://www.linkedin.com/in/meeran-husain/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Meeran%20Husain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="mailto:meeranhusain18@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </p>
 
 ---
