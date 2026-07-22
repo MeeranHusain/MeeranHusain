@@ -133,13 +133,6 @@ Passionate about building scalable web applications, developing RESTful APIs, an
 
 ---
 
-# 💭 Favorite Quote
-
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
----
-
 <h3 align="center">
 💙 Building • Learning • Growing 🚀
 </h3>
