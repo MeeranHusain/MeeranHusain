@@ -24,6 +24,12 @@ Passionate about building scalable web applications, developing RESTful APIs, an
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;PHP+Developer;Python+Developer;Django+Developer;Continuous+Learning+%7C+Problem+Solving"/>
 </p>
 
+----
+
+<p align="center">
+  <img width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF">
+</p>
+
 ---
 
 # 🚀 About Me
@@ -36,13 +42,6 @@ Passionate about building scalable web applications, developing RESTful APIs, an
 - 💡 Passionate about writing clean, maintainable, and efficient code
 
 ---
-
-<p align="center">
-<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-</p>
-
----
-
 
 # 💻 Tech Stack
 
