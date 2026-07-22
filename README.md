@@ -14,7 +14,7 @@ Passionate about Backend Development, REST APIs and solving real-world problems 
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;PHP+Developer;Python+Developer;Django+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;PHP+Developer;Python+Developer;Django+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
