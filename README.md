@@ -21,7 +21,7 @@ Passionate about building scalable web applications, developing RESTful APIs, an
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;PHP+Developer;Python+Developer;Django+Developer;REST+API+Developer;Continuous+Learning+%7C+Problem+Solving"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;PHP+Developer;Python+Developer;Django+Developer;Continuous+Learning+%7C+Problem+Solving"/>
 </p>
 
 ---
@@ -108,17 +108,6 @@ Passionate about building scalable web applications, developing RESTful APIs, an
 <img src="https://streak-stats.demolab.com?user=MeeranHusain&theme=github-dark-blue&hide_border=true"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MeeranHusain&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeeranHusain&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
