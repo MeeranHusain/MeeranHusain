@@ -1,99 +1,106 @@
-````markdown
-<!-- ====================================================== -->
-<!--                     GLASS HEADER                        -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                  ANIMATED HEADER                       -->
+<!-- ===================================================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,25,30&text=Meeran%20Husain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Backend%20Developer&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Meeran%20Husain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Backend%20Developer&descAlignY=60"/>
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MeeranHusain&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/followers/MeeranHusain?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/MeeranHusain?style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=MeeranHusain&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Meeran Husain</h1>
+<h1 align="center">Hi 👋, I'm Meeran Husain</h1>
 
 <h3 align="center">
-Backend Developer • PHP • Python • Django • MySQL
+Software Developer | Backend Developer | PHP • Python • Django • MySQL
 </h3>
 
 <p align="center">
-
-Building scalable web applications • REST APIs • SQL Optimization • Clean Code
-
+Passionate about building scalable web applications, developing RESTful APIs, and solving real-world problems with clean, efficient code.
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;PHP+Developer;Python+Developer;Django+Developer;Continuous+Learning+%7C+Problem+Solving"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;PHP+Developer;Python+Developer;REST+API+Developer;Always+Learning+Something+New"/>
+----
 
+<p align="center">
+  <img width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF">
 </p>
 
 ---
 
 # 🚀 About Me
 
-```yaml
-Name        : Meeran Husain
-Role        : Software Developer
-Experience  : PHP, Python, Django, MySQL
-Focus       : Backend Development
-Learning    : DSA • System Design • Advanced Python
-Location    : India 🇮🇳
-```
+- 💼 Software Developer with professional experience in **PHP, Python, Django & MySQL**
+- ⚙️ Building scalable **Web Applications** and **RESTful APIs**
+- 🛠️ Experienced in **Bug Fixing**, **Database Design**, and **Performance Optimization**
+- 🌱 Currently learning **Data Structures & Algorithms**, **Advanced Python**, and **System Design**
+- 🤝 Open to collaborating on **Backend**, **Python**, and **Open Source** projects
+- 💡 Passionate about writing clean, maintainable, and efficient code
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
-<p align="center">
+### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=php,python,django,mysql,javascript,html,css,bootstrap,jquery,git,github,vscode,postman"/>
+<p>
+<img src="https://skillicons.dev/icons?i=php,python,javascript,html,css,mysql" />
+</p>
 
+### ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,bootstrap,jquery" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 💼 What I Do
+# 💼 Professional Experience
 
-✨ Build scalable Backend Applications
-
-🔗 Develop & Integrate REST APIs
-
-🗄️ Design & Optimize SQL Databases
-
-🐞 Debug & Maintain Production Applications
-
-⚡ Improve Performance & Code Quality
-
-🚀 Continuously Learn New Technologies
+- ✅ Backend Web Development
+- ✅ REST API Development & Integration
+- ✅ PHP & Python Development
+- ✅ MySQL Database Design
+- ✅ SQL Query Optimization
+- ✅ Bug Fixing & Performance Optimization
+- ✅ Git Version Control
 
 ---
 
-# 📊 GitHub Analytics
+# 🎯 Current Focus
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MeeranHusain&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeeranHusain&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+- 🚀 Building scalable Backend Applications
+- 🔗 Designing RESTful APIs
+- 🐍 Mastering Python & Django
+- 📊 SQL Performance Optimization
+- 🧠 Data Structures & Algorithms
+- 🏗️ System Design
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=MeeranHusain&theme=github-dark-blue&hide_border=true"/>
+</p>
 
+----
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MeeranHusain&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeeranHusain&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -101,58 +108,30 @@ Location    : India 🇮🇳
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeeranHusain&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🌐 Connect With Me
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/MeeranHusain/MeeranHusain/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- 🐍 Advanced Python
-- 🌐 Django
-- ⚡ Data Structures & Algorithms
-- 🏗️ System Design
-- 🔐 Secure Backend Development
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/meeran-husain/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:meeranhusain18@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+    <a href="https://www.linkedin.com/in/meeran-husain/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Meeran%20Husain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="mailto:meeranhusain18@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </p>
 
 ---
 
 <h3 align="center">
-
-💙 Code • Learn • Build • Repeat 🚀
-
+💙 Building • Learning • Growing 🚀
 </h3>
 
 <p align="center">
-
-⭐ Thanks for visiting my profile!
-
+Thanks for visiting my profile! ⭐ <br>
+If you like my work, consider giving a ⭐ to my repositories.
 </p>
-````
