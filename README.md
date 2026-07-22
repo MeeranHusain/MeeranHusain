@@ -134,7 +134,7 @@ Passionate about building scalable web applications, developing REST APIs, and s
 
 <p align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/meeran-husain/)" target="_blank">
+<a href="(https://www.linkedin.com/in/meeran-husain/)" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
