@@ -3,7 +3,8 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Meeran%20Husain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Backend%20Developer&descAlignY=60"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&strokeWidth=15&stroke=5DFF54&section=header&text=Meeran%20Husain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Backend%20Developer&descAlignY=60"/>
 </p>
 
 <p align="center">
