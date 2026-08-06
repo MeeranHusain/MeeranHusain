@@ -108,7 +108,7 @@ Passionate about building scalable web applications, developing RESTful APIs, an
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeeranHusain&bg_color=2E2E2E&color=00FF15&line=00FF22&point=FFFFFF&area=true&border_color=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeeranHusain&bg_color=030303&color=00FF15&line=0014FF&point=22FF00&area=true&border_color=FFFFFF"/>
 </p>
 
 ---
